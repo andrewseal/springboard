@@ -1,0 +1,9 @@
+   Selected Model                    Gradient Boosting
+-----------------------------------  -------------------
+Model                                Gradient Boosting
+Hyperparameter to Optimize           Learning Rate
+Optimal Hyperparameter               Learning Rate = 0.1
+r2 Score Train                       0.95519
+r2 Score Test                        0.89274
+Root Mean Square Error (RMSE) Train  16771.0
+Root Mean Square Error (RMSE) Test   26273.0
